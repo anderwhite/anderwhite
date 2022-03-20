@@ -4,6 +4,6 @@ Hi, my name is Alexander White (BaldTheBuilder). I'm an Environmental Studies st
 
 ## My Current Projects
 
-- Harvard - CS50x
+- Harvard University - CS50x Intro to Computer Science
 - Leaflet Interactive Web Mapping
 - HomeLab - Network Design
