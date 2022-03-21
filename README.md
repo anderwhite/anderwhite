@@ -1,6 +1,6 @@
 ## WELCOME!
 
-Hi, my name is Alexander White (BaldTheBuilder). I'm an Environmental Studies student, aspiring City Planner and QGIS enthusiast. I'm slowly teaching myself [JavaScript, Python, HTML, and SQL]. I also dable in networking and HomeLabing.
+Hi, my name is Alexander White. I'm an Environmental Studies student, aspiring City Planner and QGIS enthusiast. I'm slowly teaching myself [JavaScript, Python, HTML, and SQL]. I also dable in networking and HomeLabing.
 
 ## My Current Projects
 
