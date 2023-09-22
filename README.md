@@ -1,9 +1,9 @@
 ## WELCOME!
 
-Hi, my name is Alexander White. I'm an Environmental Studies student, aspiring City Planner and QGIS enthusiast. I'm slowly teaching myself JavaScript, Python, HTML, and SQL. I also dabble in networking and HomeLabing.
+Hi, my name is Alexander White. I'm an Environmental Studies and Criminology Grad, with an interest in GIS and Spatial analysis.
 
 ## My Current Projects
-
-- Harvard University - CS50x Intro to Computer Science
-- Leaflet Interactive Web Mapping
-- HomeLab - Network Design
+-
+## Past Projects
+- Kitchener-Waterloo Bike Infrastucture Mapping
+- Hamilton NHS Mapping
